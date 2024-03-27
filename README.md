@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 - 😴 Drowsiness detection using OpenCV - Developed applications including health monitoring, driver safety and lowering eye strain from screens
 - 🤖 RobotX/RoboSub - Developed underwater detection system for ROV and UAV using OpenCV and Convolutional Neural Networks
 
-📬 Feel free to reach out to me at pahels1@uci.edu
-🌎 LinkedIn: https://www.linkedin.com/in/pahel-srivastava/
+
+
+
+- 📬 Feel free to reach out to me at pahels1@uci.edu
+- 🌎 LinkedIn: https://www.linkedin.com/in/pahel-srivastava/
 
 
 
