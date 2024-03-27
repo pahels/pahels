@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 ## About Me 🚀 
 - ✏️ I am Pahel Srivastava, and undergraduate student at the University of California, Irvine, studying computer science
-- 💡 I'm passionate about startups, and love working on projects related to computer vision and machine learning. Most of my work involves computer visions for AV navigation, however, I'm always looking for new projects to work on!
+- 💡 I'm passionate about startups, and love working on projects related to computer vision and machine learning. a lot of my work involves computer vision for AV navigation. I'm always looking for new projects to work on!
 - 🌱 I'm currently learning how to apply Kalman Filters to my projects
 - 🔆 Outside of coding, I love to do art, listen to music, play badminton, and explore nature (especially camping)
 
